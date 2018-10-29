@@ -1,0 +1,24 @@
+{
+    "black_hole": {
+        "hardOnly": false,
+        "minGrav": 100,
+        "maxGrav": 120,
+        "rowCount": 3,
+        "smoothLandscape": true,
+        "groundTexs": "blackHoles:blackHoleGround",
+        "cloudTexs": "core:cloud",
+
+        "sky": {
+            "dawnColor": "hsb 0 0 0",
+            "dayColor": "hsb 0 0 0"
+        },
+
+        "decorations": {
+        },
+
+        "highOrbitEnemies": [
+        ],
+        "groundEnemies": [
+        ]
+    }
+}
