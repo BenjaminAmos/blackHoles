@@ -1,12 +1,12 @@
 {
-    "black_hole": {
-        "hardOnly": false,
+    "blackHole": {
+        "hardOnly": true,
         "minGrav": 100,
         "maxGrav": 120,
         "rowCount": 3,
         "smoothLandscape": true,
         "groundTexs": "blackHoles:blackHoleGround",
-        "cloudTexs": "core:cloud",
+        "cloudTexs": "blackHoles:noCloud",
 
         "sky": {
             "dawnColor": "hsb 0 0 0",

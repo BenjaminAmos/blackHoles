@@ -3,9 +3,5 @@
     "version" : "0.1.0",
     "displayName" : "BlackHoles (planets module)",
     "description" : "This module adds rare black holes into a system.",
-    "dependencies" :  [
-        {
-            "id" : "core"
-        }
-    ]
+    "dependencies" : []
 }
